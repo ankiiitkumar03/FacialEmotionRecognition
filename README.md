@@ -16,7 +16,7 @@ This project is a deep learning-based facial emotion recognition system built us
 
 - Real-time facial emotion detection using webcam
 - CNN model trained on FER-2013 dataset
-- Accuracy up to ~85%
+- Accuracy up to 76.4%
 - Built with Keras, OpenCV, and TensorFlow
 - Modular and easy to integrate
 
@@ -31,5 +31,4 @@ This project is a deep learning-based facial emotion recognition system built us
 
 ---
 
-## 🗂️ Folder Structure
 
